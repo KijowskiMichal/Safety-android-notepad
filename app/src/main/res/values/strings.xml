@@ -1,6 +1,14 @@
 <resources>
-    <string name="app_name">Notepadplusplusv2</string>
+    <string name="app_name">NotepadPlusPlusV3</string>
     <string name="save">Zapisz</string>
     <string name="whiteflag">Poddaje się</string>
     <string name="autherr">Brak autoryzacji</string>
+    <string name="enterpasswordsecond">Podaj hasło ponownie</string>
+    <string name="enterpassword">Podaj hasło</string>
+    <string name="savepassword">Zapisz hasło</string>
+    <string name="doubleerror">Hasła nie są identyczne</string>
+    <string name="password">Hasło</string>
+    <string name="biometric">Biometria</string>
+    <string name="saved">Zapisano</string>
+    <string name="passwordChange">Zmiana hasla</string>
 </resources>

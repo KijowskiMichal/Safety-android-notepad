@@ -29,6 +29,14 @@
                 android:layout_height="wrap_content"
                 android:onClick="save"
                 android:text="@string/save" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="goToPasswordChange"
+                android:text="@string/passwordChange" />
         </LinearLayout>
     </ScrollView>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

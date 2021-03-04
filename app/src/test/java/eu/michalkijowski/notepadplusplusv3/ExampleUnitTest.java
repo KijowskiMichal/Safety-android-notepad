@@ -1,4 +1,4 @@
-package eu.michalkijowski.notepadplusplusv2;
+package eu.michalkijowski.notepadplusplusv3;
 
 import org.junit.Test;
 
