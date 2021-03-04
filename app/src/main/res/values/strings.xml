@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NotepadPlusPlus</string>
+    <string name="login">Zaloguj</string>
+    <string name="password">Hasło</string>
+    <string name="passwordChange">Zmiana hasła</string>
+    <string name="notate">Tutaj wpisz swój tekst</string>
+    <string name="back">Powrót</string>
+    <string name="setpassword">Ustaw hasło</string>
+    <string name="putpassword">Wprowadź hasło</string>
+    <string name="putpasswordanothertime">Wprowadź hasło ponownie</string>
+    <string name="save">Zapisz</string>
+    <string name="identitypassword">Hasła nie są identyczne</string>
+    <string name="passwordNotCorrect">Hasło niepoprawne</string>
+    <string name="saved">Zapisano</string>
+    <string name="autherr">No ładnie się uwierzytelnij!</string>
+    <string name="whiteflag">Poddaję się</string>
+</resources>
