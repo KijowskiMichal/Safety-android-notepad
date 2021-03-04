@@ -5,13 +5,13 @@ android {
     buildToolsVersion "30.0.1"
 
     defaultConfig {
-        applicationId "eu.michalkijowski.notepadplusplus"
-        minSdkVersion 24
+        applicationId "eu.michalkijowski.notepadplusplusv2"
+        minSdkVersion 28
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
 
-        testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
     buildTypes {

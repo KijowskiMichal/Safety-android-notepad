@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="eu.michalkijowski.notepadplusplus">
+    package="eu.michalkijowski.notepadplusplusv2">
 
     <application
         android:allowBackup="true"
@@ -9,12 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".PasswordChange"></activity>
-        <activity android:noHistory="true" android:name=".PasswordSet"></activity>
-        <activity android:name=".Notepad" />
-        <activity
-            android:name=".MainActivity"
-            android:noHistory="true">
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
